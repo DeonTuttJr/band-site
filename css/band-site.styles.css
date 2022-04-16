@@ -2,39 +2,34 @@
 
 /* CSS Document */
 
-.nav-wrapper{
-  
-    text-decoration: none;
-   background-color: #ffffff ;
-   height: 150px;
-   
 
-}
+
+ 
+
 html {
     font-family: slab-serif;
   }
  
+
 li{
-    margin-top: 100px;
-    margin-left: 141px
+    margin-left: 120px;
+
 }
 
 
 
+.nav-wrapper{
+    background-color:rgb(255, 255, 255);
+    padding-bottom: 100px;
+ 
+}
 
 .page-footer{
-    height: 100px;
+    height: 244px;
     background-color: black;
-    margin-top: 10px
+    margin-top: 1000px;
+} 
+
+.material-icons{
+  color: rgb(0, 0, 0);
 }
-
-
-
-
-.container{
-   
-    width: 400px;
-    margin-left: 550px;
-    flex-direction: row;
-}
-
