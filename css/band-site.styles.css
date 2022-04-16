@@ -3,7 +3,6 @@
 /* CSS Document */
 
 
-
  
 
 html {
@@ -24,12 +23,18 @@ li{
  
 }
 
-.page-footer{
-    height: 244px;
-    background-color: black;
-    margin-top: 1000px;
-} 
+
 
 .material-icons{
   color: rgb(0, 0, 0);
 }
+
+
+
+.page-footer{
+    background-color:rgb(0, 0, 0)
+}
+
+  .img{
+      width: 10%;
+  }
